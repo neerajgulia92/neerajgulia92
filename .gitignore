@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node.js (if using for portfolio)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
+.next/
+
+# OS-specific
+Thumbs.db
